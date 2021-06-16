@@ -1,11 +1,9 @@
-# BotStatus-Ts-Bot 
+# Bot Status
 
 
-An open source telegram Bot Status bot
+An complte open source project which funtions with heroku for telegram Bot Status updates ; completely rewriten repostirie from [Ts bots](github.com/ts_bots) Repostirie.
 
-- For demo you can check <b>[here](https://telegram.me/Ts_bots/8)</b> 
-
-- The status is updated in every 1 hour
+▪ For demo you can check Below image ; Taken image after direct deploying to heroku ;  The status will be updated in every 1 hour in your channel
 
 # About Bot
 
