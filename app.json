@@ -1,5 +1,5 @@
 {
-  "name": "Bot Status Ts Bot",
+  "name": "Bot Status",
   "description": "A telegram bot that can show the status of your bots",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "status",
     "bot" 
   ],
-  "repository": "https://github.com/Ts-Bots/BOTSTATUS-TS-BOT",
+  "repository": "https://github.com/Maxxcoderz/Bot-status",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
