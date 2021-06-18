@@ -1,4 +1,4 @@
-# Ts-Bots
+# Bot-status
 
 
 import os
@@ -20,7 +20,7 @@ user_client = Client(session_name=str(user_session_string), api_id=api_id, api_h
 def main():
     with user_client:
         while True:
-            print("[INFO] starting to check uptime..")
+            print("[INFO] starting to check uptime status..")
             edit_text = f"🔰𝐓𝐫𝐚𝐜𝐤𝐬𝐭𝐮𝐝𝐢𝐨'𝐬 𝐁𝐨𝐭𝐬 𝐒𝐭𝐚𝐭𝐮𝐬🔰\n\n__( All bots are checked automatically if any correction report it )__\n\n\n"
             for bot in bots:
                 print(f"[INFO] checking @{bot}")
@@ -30,12 +30,12 @@ def main():
 
                 msg = user_client.get_history(bot, 1)[0]
                 if snt.message_id == msg.message_id:
-                    print(f"[WARNING] @{bot} is down")
+                    print(f"[WARNING] @{bot} is Down")
                     edit_text += f"𝙱𝙾𝚃 𝙽𝙰𝙼𝙴    {bot} \n𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴  @{bot}\n𝚂𝚃𝙰𝚃𝚄𝚂 ❌\n\n"
                     #user_client.send_message("me",
                                              #f"@{bot} was down")
                 else:
-                    print(f"[INFO] all good with @{bot}")
+                    print(f"[INFO] all Good with @{bot}")
                     edit_text += f"𝙱𝙾𝚃 𝙽𝙰𝙼𝙴    {bot} \n𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴  @{bot}\n𝚂𝚃𝙰𝚃𝚄𝚂 ✅\n\n"
                 user_client.read_history(bot)
 
@@ -48,7 +48,7 @@ def main():
                 user_client.edit_message_text(int(update_channel), status_message_id,
                                          edit_text)
                 time.sleep(5)
-            print(f"[INFO] everything done! sleeping for 1 hour...")
+            print(f"[INFO] everything is done! sleeping for 1 hour... ; If you found any bugs report it to Maxx")
 
             time.sleep(60 * 60)
 
