@@ -17,7 +17,7 @@ This is a Bot status bot which shows you the status of all your bot (s) and it i
 You can deploy the bot using heroku
 🥰 Fork it and deploy Directly through Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-Bots/BOTSTATUS-TS-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maxxcoderz/Bot-status)
 
 ## Heroku Config Vars
 
