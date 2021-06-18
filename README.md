@@ -14,42 +14,12 @@ This is a Bot status bot which shows you the status of all your bot (s) and it i
 
 # Deployment
 
-
-## About Heroku Config Vars
-
-```
-👉 Update_Channel - id of your channel Example -100123345567
-
-👉 Status_message_id - id of your message Example 3
-
-👉 Bots - Username of your bot without '@'
-
-Example:- bot1 bot2 bot2 ( Give a single space after each bot ) 
-
-Note:- Bot Token not required 
-```
 You can deploy the bot using heroku
-
-- 🥰 Fork it and deploy
- 
-- 👇 Press the deploy button.
+🥰 Fork it and deploy Directly through Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ts-Bots/BOTSTATUS-TS-BOT)
 
+# Bugs/issue
 
-## Channel
-
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
-
-## Support 
-
-<b>[@Ts_Bots_Support](https://telegram.me/Ts_Bots_Support)</b>
-
-
-### Thanks to
-
-<i>❤️ Thanks to everyone in this journey</i> 
-
-<i>🥰 Thanks to [Odysseusmax](https://telegram.me/odysseusmax) for his source code</i> 
-
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+If you found any type of bug in this repostrie Directly contact me trough [telegram](telegram.dog/Maxxcoderz) or Our [support Group](https://telegram.dog/CoderzSupport)
+Subscribe to our [projects channel](https://telegram.dog/CoderzHEX) For more Bots ;
