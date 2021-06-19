@@ -1,12 +1,13 @@
-# Bot Status
+<h1 align="center">Bot Status Maintaince</h1>
+<p align="center">
+  
 
-
-An complete open source project which funtions with heroku for telegram Bot Status updates ; completely rewriten repostirie from [Ts bots](github.com/ts_bots) Repostirie.
+<b>An complete open source project which funtions with heroku for telegram Bot Status updates ; completely rewriten repostirie from [Ts bots](github.com/ts_bots) Repostirie.</b>
 
 ▪ For demo you can check Below image ; Taken image after direct deploying to heroku ;  The status will be updated in every 1 hour in your channel
 
 <p align="center">
-  <img src="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg">
+  <img src="https://telegra.ph/file/92fba384aa74268287b6e.jpg">
 </p>
 
 If u found any bugs after deployment you can contact [Maxx](https://telegram.dog/Maxxcoderz) in telegram or Report issue in [Coderz Support](https://telegram.dog/CoderzSupport).
@@ -40,4 +41,4 @@ Subscribe to our [projects channel](https://telegram.dog/CoderzHEX) For more Bot
 
 # Thanks and credits
 
-I thanks to all the devolopers who helped me in this projects ; i specially thanka to [ts bots](github.com/ts_bots) for their source code and [vivek](github.com/vivek_tp) for his some codes from his repostiry ; Ns anonymous , odseeymaux ; thanks to god 
+I thanks to all the devolopers who helped me in this projects ; i specially thanka to [ts bots](github.com/ts_bots) for their source code and [vivek](github.com/vivek_tp) for his some codes from his repostiry ; Ns anonymous , odseeymaux ; Thanks to God 
