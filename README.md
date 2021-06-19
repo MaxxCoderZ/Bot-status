@@ -5,6 +5,10 @@ An complete open source project which funtions with heroku for telegram Bot Stat
 
 ▪ For demo you can check Below image ; Taken image after direct deploying to heroku ;  The status will be updated in every 1 hour in your channel
 
+<p align="center">
+  <img src="https://telegra.ph/file/60fdc9e6682702bf4b471.jpg">
+</p>
+
 If u found any bugs after deployment you can contact [Maxx](https://telegram.dog/Maxxcoderz) in telegram or Report issue in [Coderz Support](https://telegram.dog/CoderzSupport).
 
 # About Bot
