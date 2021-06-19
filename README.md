@@ -2,7 +2,7 @@
 <p align="center">
   
 
-<b>An complete open source project which funtions with heroku for telegram Bot Status updates ; completely rewriten repostirie from [Ts bots](github.com/ts_bots) Repostirie.</b>
+<b>An complete open source project which funtions with heroku for telegram Bot Status updates ; completely rewriten repostirie from [Ts bots](https://github.com/ts-bots) Repostirie.</b>
 
 ▪ For demo you can check Below image ; Taken image after direct deploying to heroku ;  The status will be updated in every 1 hour in your channel
 
